@@ -1,2 +1,3 @@
 # NLP-GEN-AI
-All details of couse
+[
+All details of course]
